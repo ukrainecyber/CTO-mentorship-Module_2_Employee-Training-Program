@@ -1,4 +1,4 @@
-# CTO Mentorship Program: Module 2
+# CTO Mentoring Program: Module 2
 
 This Repository contains materials on establishing and implementing a cybersecurity employee training & testing program. The materials featuring how to plan and create a cybersecurity training program for employees and resources used straight away to train and measure employees’ cybersecurity knowledge.
 
