@@ -2,7 +2,7 @@
 
 This Repository contains materials on establishing and implementing a cybersecurity employee training & testing program. The materials featuring how to plan and create a cybersecurity training program for employees and resources used straight away to train and measure employees’ cybersecurity knowledge.
 
-A module consists of presentation with an introduction to the topic which are availiable in English and Ukrainian versions. The module covers the topics of privacy and employee training in the two Whitepapers, which are availiable in English. 
+This module consists of presentation with an introduction to the topic which are availiable in English and Ukrainian versions. The module covers the topics of privacy and employee training in the two Whitepapers, which are availiable in English. 
 
 Materials on establishing and implementing a cybersecurity employee training & testing program developed as a part of CTO Mentorship Program.
 
