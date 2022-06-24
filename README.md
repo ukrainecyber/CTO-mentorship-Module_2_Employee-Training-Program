@@ -8,4 +8,6 @@ You can force complex passwords, install drive encryption, and use three differe
 
 Besides technical means, a comprehensive Security Awareness Training program is essential when it comes to your overall security plan. While many businesses conduct formal training seminars, send email updates, and even test employees on their overall security knowledge, there is one question that IT leaders often have a difficult time answering…is it working? The materials will guide you how to plan and create a cybersecurity training program for employees and resources used straight away to train and measure employees’ cybersecurity knowledge.
 
+All training materials are prepared in English and Ukrainian languages accompanied with the whitepapers from the international experts in English.
+
 These materials were prepared by Catalisto LLC for the USAID Cybersecurity for Critical Infrastructure in Ukraine Activity.
